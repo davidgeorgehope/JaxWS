@@ -1,3 +1,1 @@
-# VMWare Interceptor
-
-"# JaxWS" 
+# JaxWS
